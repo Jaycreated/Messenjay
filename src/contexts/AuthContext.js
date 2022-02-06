@@ -6,10 +6,10 @@ const AuthContext = React.createContext()
 
 export const useAuth = () => useContext(AuthContext)
 
- const AuthProvider = ({ children }) => {
+export const AuthProvider = ({ children }) => {
     const [loading, setLoading] = useState(true)
     const [user, setUser] = useState(null)
-    const history = useHistory()
+    const history = useNavigate()
 
     useEffect(() => {
         auth.onAuthStateChanged((user) => {
@@ -28,4 +28,4 @@ export const useAuth = () => useContext(AuthContext)
         </AuthContext.Provider>
     )
 }
-export default authContext;
+

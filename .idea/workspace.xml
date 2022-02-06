@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b5e8701-acca-41b3-82d0-4bf2326d429f" name="Changes" comment="initial commit" />
+    <list default="true" id="4b5e8701-acca-41b3-82d0-4bf2326d429f" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +29,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2104jonPYpAxqqfzpWEGotwwdug" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,6 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +64,14 @@
       <workItem from="1637234966331" duration="79000" />
       <workItem from="1637235091959" duration="1737000" />
       <workItem from="1637236937434" duration="6940000" />
-      <workItem from="1637588860225" duration="660000" />
+      <workItem from="1637588860225" duration="1209000" />
+      <workItem from="1637633184634" duration="2264000" />
+      <workItem from="1637669228318" duration="1931000" />
+      <workItem from="1637671521523" duration="2596000" />
+      <workItem from="1637748548695" duration="1275000" />
+      <workItem from="1638189270137" duration="888000" />
+      <workItem from="1638958912217" duration="1520000" />
+      <workItem from="1644140024728" duration="2703000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1637589542433</created>
@@ -60,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637589542433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1637590127237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637590127237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>
